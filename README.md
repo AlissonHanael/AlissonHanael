@@ -2,10 +2,10 @@
 
 <div align="">
   <a href="https://github.com/AlissonHanael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonHanael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonHanael&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlissonHanael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonHanael&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block justify-content: center"><br>
+<div style="display: flex justify-content: center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
