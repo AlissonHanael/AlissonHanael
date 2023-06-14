@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"  align="center">
   <a href="https://github.com/AlissonHanael">
-  <img height="180em" width="40%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=AlissonHanael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=AlissonHanael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonHanael&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: flex" align="center"><br>
